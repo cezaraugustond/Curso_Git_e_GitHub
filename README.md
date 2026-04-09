@@ -1,2 +1,2 @@
-# Curso_Git_e_GitHub
-Aprendendo Git e GitHub
+# Curso: Git e GitHub
+Aprendendo Git e GitHub com o Curso em Vídeo
